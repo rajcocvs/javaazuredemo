@@ -18,6 +18,6 @@ public class DemoApplication {
 class HomeController {
     @GetMapping
     public String hello() {
-        return "Hello from Jenkins Deployed Container!";
+        return "Hello from Jenkins Deployed Containera!";
     }
 }
